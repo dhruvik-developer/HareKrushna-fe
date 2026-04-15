@@ -3,7 +3,7 @@
 # === CONFIG ===
 APP_DIR="/root/HareKrushna-fe"     # Change to your actual frontend directory
 BUILD_DIR="$APP_DIR/dist"
-PORT=3003                            # Change if you want a different port
+PORT=3005                            # Change if you want a different port
 
 # === Navigate to app directory ===
 cd $APP_DIR || exit
